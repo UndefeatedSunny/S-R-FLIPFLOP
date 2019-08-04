@@ -1,4 +1,4 @@
-VERILOG FILE FOR S-R FLIPFLOP
+VERILOG FILE FOR S-R FLIPFLOP ------------------------------------------------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 module sr_flipflop_verilog (s,r,clk,reset,q,q_bar);
  
@@ -25,7 +25,7 @@ case({s,r})
 endcase
 
 
-TESTBENCH FOR S-R FLIPFLOP
+TESTBENCH FOR S-R FLIPFLOP --------------------------------------------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 module sr_flipflop_testbench ;
  
